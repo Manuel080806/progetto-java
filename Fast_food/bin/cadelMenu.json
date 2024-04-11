@@ -1,0 +1,76 @@
+{
+	"menu": [
+		{
+			"nome": "patacadel",
+			"prezzo": 2.50,
+			"ordinabile": true,
+			"disponibili": 100
+		},
+		{
+			"nome": "pane",
+			"prezzo": 0.2,
+			"ordinabile": false,
+			"disponibili": 200
+		},
+		{
+			"nome": "cadel sauce",
+			"prezzo": 0.1,
+			"ordinabile": false,
+			"disponibili": 200
+		},
+		{
+			"nome": "nuggevans",
+			"prezzo": 0.3,
+			"ordinabile": true,
+			"disponibili": 150
+		},
+		{
+			"nome": "cadel cola",
+			"prezzo": 2,
+			"ordinabile": true,
+			"disponibili": 120
+		},
+		{
+			"nome": "hamburger",
+			"prezzo": 0.5,
+			"ordinabile": false,
+			"disponibili": 200
+		},
+		{
+			"nome": "becans",
+			"prezzo": 0.1,
+			"ordinabile": false,
+			"disponibili": 300
+		},
+		{
+			"nome": "Crispy McCadel",
+			"prezzo": 8.20,
+			"ordinabile": true,
+			"ingredienti": [
+				{"nome": "pane", "quantita": 2},
+				{"nome": "becans", "quantita": 3},
+				{"nome": "hamburger", "quantita": 1},
+				{"nome": "cadel sauce", "quantita": 1}
+			]
+		},
+		{
+			"nome": "Crispy McCadel Menu",
+			"prezzo": 12.50,
+			"ordinabile": true,
+			"ingredienti": [
+				{"nome": "Crispy McCadel", "quantita": 1},
+				{"nome": "cadel cola", "quantita": 1},
+				{"nome": "patacadel", "quantita": 1}
+			]
+		},
+		{
+			"nome": "Crispy McCadel Menu Chicken",
+			"prezzo": 12.50,
+			"ordinabile": true,
+			"ingredienti": [
+				{"nome": "Crispy McCadel Menu", "quantita": 1},
+				{"nome": "nuggevans", "quantita": 6}
+			]
+		}
+	]
+}

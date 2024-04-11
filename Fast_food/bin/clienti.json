@@ -1,0 +1,20 @@
+{
+    "clienti": [
+        {
+            "nome": "Harold Boado",
+            "cellulare": "1234567890"
+        },
+        {
+            "nome": "Cadel Muffato",
+            "cellulare": "1234567891"
+        },
+        {
+            "nome": "Corrado Pagani",
+            "cellulare": "1234567892"
+        },
+        {
+            "nome": "Simone Lauro",
+            "cellulare": "3920604443"
+        }
+    ]
+}
